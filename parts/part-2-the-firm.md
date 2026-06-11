@@ -1,12 +1,12 @@
 # Tokenmaxxing, Part 2: The Firm
 
-Part 1 argued that token metering exists because nobody can measure the value AI creates across a firm's boundary, so the labs price the input instead, and token revenue ends up measuring activity rather than value. This part is about the firm, because the firm has started managing itself by the lab's meter.
+Token metering exists because nobody can measure the value AI creates across a firm's boundary, so the labs price the input instead, and token revenue ends up measuring activity rather than value. The stranger consequence is that the firm has started managing itself by the lab's meter.
 
 Becoming an AI-native firm has become memetic. You restructure the org (read fire employees), you wire a frontier API through every workflow, and you report tokens consumed to the board as evidence of transformation, right up until the token bill becomes unbearable and you quietly hire people back. Tokens consumed is the lab's revenue line, repackaged as your productivity metric. You are reading your transformation off somebody else's invoice.
 
 It gets worse, because the party that printed the invoice is in the business of hollowing you out. Meter your inputs, make tokenmaxxing the measure of productivity, drain your decision traces, sell the frontier model back to you at a markup. The contracts now mostly promise that your prompts will never train the next model, and the promise is mostly kept. The lab learns from the aggregate anyway, which workflows the economy routes through it, where the failures cluster, which evals matter, and the next model arrives fitted to your industry whether or not it ever saw your data. You pay in cash, and then again in exhaust and dependence.
 
-The meter corrodes the people watching it too. Tokenmaxxing has induced a delinquent state, a trance state of bravado, where the five-figure monthly bill gets screenshotted like it proves something. The enterprise is filling with slop, drafted by one model and summarised by another, while everyone in between reports productivity gains. We have run this loop with vanity metrics before. Page views, then GMV, then ARR at any CAC. The metric stops describing the work and eventually replaces it, and the correction is the same as it was then. Touch the grass. Spend your time doing something scarce. The rest of this part is about what the scarce thing is.
+The meter corrodes the people watching it too. Tokenmaxxing has induced a delinquent state, a trance state of bravado, where the five-figure monthly bill gets screenshotted like it proves something. The enterprise is filling with slop, drafted by one model and summarised by another, while everyone in between reports productivity gains. We have run this loop with vanity metrics before. Page views, then GMV, then ARR at any CAC. The metric stops describing the work and eventually replaces it, and the correction is the same as it was then. Touch the grass. Spend your time doing something scarce.
 
 So what should a firm actually do with this technology? Two fashionable answers get in the way.
 
@@ -20,4 +20,4 @@ Which brings me to the answer I believe. What can a pricing specialist do with 4
 
 The reason almost nobody does this is that the firm's own dashboard punishes it. Revenue per FTE is an average, and averages are silent about margins. Wherever relationships compound, the marginal hour is the most productive one, so optimizing the average means amputating the margin. And the trap is that firing people improves the ratio all the way down. The firm doing the right thing looks worse on this metric, quarter after quarter, than the firm bleeding out.
 
-What this part comes down to is one substitution. Manage by your own convexity instead of the lab's meter. The problem is that no metric you currently run can see whether the redeployment happened. Who builds that instrument is Part 3.
+It comes down to one substitution. Manage by your own convexity instead of the lab's meter. The problem is that no metric you currently run can see whether the redeployment happened, and someone still has to build that instrument.
