@@ -1,4 +1,4 @@
-# Tokenmaxxing, Part 1: The Meter
+# Measure What Matters, Part 1: The Meter
 
 Model labs want you to believe that tokenmaxxing, the regime where tokens consumed stand in for intelligence deployed, is the [only way to scale intelligence](https://x.com/tszzl/status/2062721754150420604?s=20) inside an enterprise, and that charging for tokens is only fair because of the enormous surplus those tokens generate inside your business. The pitch sounds reasonable until you ask a boring accounting question. Where, exactly, does that surplus show up?
 

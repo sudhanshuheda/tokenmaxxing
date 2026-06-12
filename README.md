@@ -1,4 +1,4 @@
-# Tokenmaxxing
+# Measure What Matters
 
 Three essays on the meter, the firm, and the instrument.
 

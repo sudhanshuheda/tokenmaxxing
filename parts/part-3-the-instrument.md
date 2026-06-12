@@ -1,4 +1,4 @@
-# Tokenmaxxing, Part 3: The Instrument
+# Measure What Matters, Part 3: The Instrument
 
 The labs meter tokens because nobody can measure the value AI creates across a firm's boundary, and firms, managing themselves by that same meter, fire the very people their returns depend on instead of redeploying them toward the relationship work where returns compound. The layer in between is the application layer, where I work, so the incentive problems from here on are mine.
 

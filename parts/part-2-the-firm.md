@@ -1,4 +1,4 @@
-# Tokenmaxxing, Part 2: The Firm
+# Measure What Matters, Part 2: The Firm
 
 Token metering exists because nobody can measure the value AI creates across a firm's boundary, so the labs price the input instead, and token revenue ends up measuring activity rather than value. The stranger consequence is that the firm has started managing itself by the lab's meter.
 
